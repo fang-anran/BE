@@ -1,6 +1,6 @@
 # Paper Data Repository
 
-This repository holds datasets and supporting files for the related paper. It includes raw/processed data, tabular summaries, and visual materials used in experiments or analysis.
+This repository holds datasets and supporting files related to business ethics research. It includes raw/processed data, tabular summaries, and visual materials used in experiments or analysis.
 
 ## Directory Overview
 
