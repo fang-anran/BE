@@ -1,0 +1,14 @@
+.idea/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.csv
+*.zip
+*.rar
+*.7z
+data/
+build/
+dist/
+*.egg-info/
